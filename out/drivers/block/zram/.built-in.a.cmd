@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/built-in.a :=  rm -f drivers/block/zram/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/block/zram/built-in.a drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o

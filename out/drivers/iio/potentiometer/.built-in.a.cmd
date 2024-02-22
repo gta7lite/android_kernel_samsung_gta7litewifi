@@ -1,0 +1,1 @@
+cmd_drivers/iio/potentiometer/built-in.a :=  rm -f drivers/iio/potentiometer/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/iio/potentiometer/built-in.a 

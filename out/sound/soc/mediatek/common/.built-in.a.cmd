@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/common/built-in.a :=  rm -f sound/soc/mediatek/common/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD sound/soc/mediatek/common/built-in.a sound/soc/mediatek/common/mtk-btcvsd.o

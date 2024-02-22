@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/tilcdc/built-in.a :=  rm -f drivers/gpu/drm/tilcdc/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/drm/tilcdc/built-in.a 

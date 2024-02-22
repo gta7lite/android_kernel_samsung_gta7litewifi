@@ -1,0 +1,1 @@
+cmd_drivers/firmware/broadcom/built-in.a :=  rm -f drivers/firmware/broadcom/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/firmware/broadcom/built-in.a 

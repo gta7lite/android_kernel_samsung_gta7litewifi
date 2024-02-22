@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/qos/mtk_qos.ko
+kernel/drivers/misc/mediatek/qos/mtk_qos_legacy.ko

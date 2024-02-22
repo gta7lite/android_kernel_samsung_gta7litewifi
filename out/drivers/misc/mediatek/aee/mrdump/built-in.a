@@ -1,0 +1,18 @@
+!<thin>
+//                                              126       `
+mboot_params.o/
+mrdump_control.o/
+mrdump_hw.o/
+mrdump_full.o/
+mrdump_mini.o/
+mrdump_panic.o/
+mrdump_helper.o/
+mrdump_arm64.o/
+/0              0           0     0     644     511640    `
+/16             0           0     0     644     134864    `
+/34             0           0     0     644     7984      `
+/47             0           0     0     644     134936    `
+/62             0           0     0     644     357944    `
+/77             0           0     0     644     154808    `
+/93            /0           0     0     644     304728    `
+/110            0           0     0     644     6320      `

@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.a :=  rm -f drivers/input/misc/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/input/misc/built-in.a drivers/input/misc/uinput.o

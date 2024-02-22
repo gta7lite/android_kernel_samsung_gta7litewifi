@@ -1,0 +1,3 @@
+kernel/drivers/spi/spidev.ko
+kernel/drivers/spi/spi-mt65xx.ko
+kernel/drivers/spi/spi-mt65xx-dev.ko

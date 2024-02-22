@@ -1,0 +1,30 @@
+!<thin>
+//                                              236       `
+virtgpu_drv.o/
+virtgpu_kms.o/
+virtgpu_gem.o/
+virtgpu_fb.o/
+virtgpu_display.o/
+virtgpu_vq.o/
+virtgpu_ttm.o/
+virtgpu_fence.o/
+virtgpu_object.o/
+virtgpu_debugfs.o/
+virtgpu_plane.o/
+virtgpu_ioctl.o/
+virtgpu_prime.o/
+virtgpu_trace_points.o/
+/0              0           0     0     644     269600    `
+/15             0           0     0     644     282968    `
+/30             0           0     0     644     271192    `
+/45             0           0     0     644     257808    `
+/59             0           0     0     644     277512    `
+/78             0           0     0     644     373640    `
+/92             0           0     0     644     271000    `
+/107           /0           0     0     644     268272    `
+/124            0           0     0     644     278168    `
+/142            0           0     0     644     234648    `
+/161           /0           0     0     644     276744    `
+/178           /0           0     0     644     317336    `
+/195           /0           0     0     644     240488    `
+/212            0           0     0     644     210824    `

@@ -1,0 +1,5 @@
+kernel/drivers/misc/mediatek/dvfsrc/mtk-dvfsrc-help.ko
+kernel/drivers/misc/mediatek/dvfsrc/mtk-dvfsrc-debug.ko
+kernel/drivers/misc/mediatek/dvfsrc/mtk-dvfsrc-met.ko
+kernel/drivers/misc/mediatek/dvfsrc/dvfsrc-boost.ko
+kernel/drivers/misc/mediatek/dvfsrc/dvfsrc-opp-mt6765.ko

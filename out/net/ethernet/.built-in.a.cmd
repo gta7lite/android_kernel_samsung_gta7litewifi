@@ -1,0 +1,1 @@
+cmd_net/ethernet/built-in.a :=  rm -f net/ethernet/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD net/ethernet/built-in.a net/ethernet/eth.o

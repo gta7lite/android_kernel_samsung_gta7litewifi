@@ -1,0 +1,14 @@
+!<thin>
+//                                              108       `
+mtk-smi.o/
+mediatek/dramc.o/
+mediatek/dramc_bin.o/
+mediatek/emicen.o/
+mediatek/emimpu.o/
+mediatek/emiisu.o/
+/0              0           0     0     644     143088    `
+/11             0           0     0     644     194160    `
+/29             0           0     0     644     10952     `
+/51             0           0     0     644     114624    `
+/70             0           0     0     644     209584    `
+/89             0           0     0     644     162584    `

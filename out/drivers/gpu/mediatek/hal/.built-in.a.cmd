@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mediatek/hal/built-in.a :=  rm -f drivers/gpu/mediatek/hal/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/mediatek/hal/built-in.a drivers/gpu/mediatek/hal/mtk_gpu_utility.o

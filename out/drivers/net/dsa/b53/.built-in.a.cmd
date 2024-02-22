@@ -1,0 +1,1 @@
+cmd_drivers/net/dsa/b53/built-in.a :=  rm -f drivers/net/dsa/b53/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/net/dsa/b53/built-in.a 

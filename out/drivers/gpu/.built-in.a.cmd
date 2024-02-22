@@ -1,0 +1,1 @@
+cmd_drivers/gpu/built-in.a :=  rm -f drivers/gpu/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/built-in.a drivers/gpu/drm/built-in.a drivers/gpu/vga/built-in.a drivers/gpu/mediatek/built-in.a drivers/gpu/trace/built-in.a

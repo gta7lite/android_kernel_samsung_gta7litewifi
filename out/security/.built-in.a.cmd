@@ -1,0 +1,1 @@
+cmd_security/built-in.a :=  rm -f security/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD security/built-in.a security/keys/built-in.a security/commoncap.o security/min_addr.o security/security.o security/selinux/built-in.a security/lsm_audit.o security/integrity/built-in.a

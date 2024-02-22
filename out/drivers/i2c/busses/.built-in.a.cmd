@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a :=  rm -f drivers/i2c/busses/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-mtk.o drivers/i2c/busses/i2c-mtk_debug.o

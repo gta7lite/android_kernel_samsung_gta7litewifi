@@ -1,0 +1,37 @@
+!<thin>
+//                                              354       `
+debug/sec_debug.o/
+debug/sec_debug_extra_info.o/
+debug/sec_debug_hw_param.o/
+debug/sec_debug_auto_comment.o/
+misc/sec_log.o/
+misc/sec_bootstat.o/
+misc/vbus_notifier.o/
+misc/cable_type_notifier.o/
+misc/sec_chipid.o/
+sec_reboot.o/
+sec_class.o/
+sec_param.o/
+sec_fmm_lock.o/
+sec_key_notifier.o/
+sec_crash_key.o/
+sec_crash_key_user.o/
+sec_hard_reset_hook.o/
+
+/0              0           0     0     644     229632    `
+/19             0           0     0     644     172680    `
+/49             0           0     0     644     107792    `
+/77             0           0     0     644     137824    `
+/109            0           0     0     644     175256    `
+/125            0           0     0     644     170312    `
+/146           /0           0     0     644     52368     `
+/168            0           0     0     644     50608     `
+/196            0           0     0     644     137336    `
+/215            0           0     0     644     192304    `
+/229            0           0     0     644     49456     `
+/242            0           0     0     644     216032    `
+/255            0           0     0     644     121432    `
+/271            0           0     0     644     143448    `
+/291           /0           0     0     644     10056     `
+/308            0           0     0     644     18776     `
+/330            0           0     0     644     121712    `

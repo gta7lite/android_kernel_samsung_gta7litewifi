@@ -1,0 +1,1 @@
+cmd_lib/crypto/built-in.a :=  rm -f lib/crypto/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD lib/crypto/built-in.a lib/crypto/chacha.o lib/crypto/libchacha.o lib/crypto/poly1305-donna64.o lib/crypto/poly1305.o

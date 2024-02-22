@@ -1,0 +1,1 @@
+cmd_drivers/edac/built-in.a :=  rm -f drivers/edac/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/edac/built-in.a drivers/edac/edac_mc.o drivers/edac/edac_device.o drivers/edac/edac_mc_sysfs.o drivers/edac/edac_module.o drivers/edac/edac_device_sysfs.o drivers/edac/wq.o

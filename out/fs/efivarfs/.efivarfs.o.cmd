@@ -1,0 +1,1 @@
+cmd_fs/efivarfs/efivarfs.o := /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ld -EL  -maarch64elf   -r -o fs/efivarfs/efivarfs.o fs/efivarfs/inode.o fs/efivarfs/file.o fs/efivarfs/super.o 

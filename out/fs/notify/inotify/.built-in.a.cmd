@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.a :=  rm -f fs/notify/inotify/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD fs/notify/inotify/built-in.a fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o

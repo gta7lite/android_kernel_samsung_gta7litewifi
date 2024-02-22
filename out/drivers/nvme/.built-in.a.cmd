@@ -1,0 +1,1 @@
+cmd_drivers/nvme/built-in.a :=  rm -f drivers/nvme/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/nvme/built-in.a drivers/nvme/host/built-in.a drivers/nvme/target/built-in.a

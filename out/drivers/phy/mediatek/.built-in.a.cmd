@@ -1,0 +1,1 @@
+cmd_drivers/phy/mediatek/built-in.a :=  rm -f drivers/phy/mediatek/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/phy/mediatek/built-in.a drivers/phy/mediatek/phy-mtk-tphy.o

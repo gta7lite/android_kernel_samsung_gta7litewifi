@@ -1,0 +1,82 @@
+!<thin>
+//                                              1368      `
+tpd_control.o/
+tpd_button.o/
+tpd_debug.o/
+tpd_default.o/
+tpd_misc.o/
+tpd_setting.o/
+ilitek_touch/ilitek_v3.o/
+ilitek_touch/ilitek_v3_spi.o/
+ilitek_touch/ilitek_v3_mtk.o/
+ilitek_touch/ilitek_v3_ic.o/
+ilitek_touch/ilitek_v3_touch.o/
+ilitek_touch/ilitek_v3_mp.o/
+ilitek_touch/ilitek_v3_hostdl.o/
+ilitek_touch/ilitek_v3_node.o/
+ilitek_touch/ilitek_v3_sec.o/
+novatek_touch/nt36xxx.o/
+novatek_touch/nt36xxx_fw_update.o/
+novatek_touch/nt36xxx_ext_proc.o/
+novatek_touch/nt36xxx_mp_ctrlram.o/
+novatek_touch/nt36xxx_sec_fn.o/
+focaltech_touch_ax3565/focaltech_core.o/
+focaltech_touch_ax3565/focaltech_ex_fun.o/
+focaltech_touch_ax3565/focaltech_ex_mode.o/
+focaltech_touch_ax3565/focaltech_gesture.o/
+focaltech_touch_ax3565/focaltech_esdcheck.o/
+focaltech_touch_ax3565/focaltech_point_report_check.o/
+focaltech_touch_ax3565/focaltech_proximity.o/
+focaltech_touch_ax3565/focaltech_test/focaltech_test.o/
+focaltech_touch_ax3565/focaltech_test/focaltech_test_ini.o/
+focaltech_touch_ax3565/focaltech_test/supported_ic/focaltech_test.o/
+focaltech_touch_ax3565/focaltech_sec.o/
+focaltech_touch_ax3565/focaltech_flash.o/
+focaltech_touch_ax3565/focaltech_spi.o/
+hxchipset_ot8/himax_ic_HX83102.o/
+hxchipset_ot8/himax_debug.o/
+hxchipset_ot8/himax_inspection.o/
+hxchipset_ot8/himax_ic_incell_core.o/
+hxchipset_ot8/himax_common.o/
+hxchipset_ot8/himax_platform.o/
+hxchipset_ot8/himax_v3_sec.o/
+/0              0           0     0     644     285008    `
+/15             0           0     0     644     159016    `
+/29             0           0     0     644     272520    `
+/42             0           0     0     644     4952      `
+/57             0           0     0     644     143456    `
+/69             0           0     0     644     146064    `
+/84             0           0     0     644     466416    `
+/110           /0           0     0     644     409528    `
+/140           /0           0     0     644     409648    `
+/170            0           0     0     644     107416    `
+/199            0           0     0     644     452984    `
+/231            0           0     0     644     670096    `
+/260            0           0     0     644     413216    `
+/293            0           0     0     644     725456    `
+/324           /0           0     0     644     350584    `
+/354            0           0     0     644     453600    `
+/379            0           0     0     644     285584    `
+/414            0           0     0     644     231744    `
+/448            0           0     0     644     503688    `
+/484            0           0     0     644     235848    `
+/516            0           0     0     644     311016    `
+/557            0           0     0     644     249448    `
+/600            0           0     0     644     199824    `
+/644            0           0     0     644     196064    `
+/688            0           0     0     644     197360    `
+/733            0           0     0     644     1240      `
+/788            0           0     0     644     1232      `
+/834            0           0     0     644     377048    `
+/890            0           0     0     644     285152    `
+/950            0           0     0     644     220592    `
+/1019          /0           0     0     644     180552    `
+/1059           0           0     0     644     254304    `
+/1101          /0           0     0     644     203968    `
+/1141           0           0     0     644     285392    `
+/1175           0           0     0     644     385552    `
+/1204           0           0     0     644     362296    `
+/1238           0           0     0     644     421664    `
+/1276           0           0     0     644     444248    `
+/1306           0           0     0     644     281704    `
+/1338           0           0     0     644     182176    `

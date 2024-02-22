@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/cirrus/built-in.a :=  rm -f drivers/pinctrl/cirrus/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/pinctrl/cirrus/built-in.a 

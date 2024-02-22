@@ -1,0 +1,11 @@
+kernel/drivers/clk/clk-scpi.ko
+kernel/drivers/clk/mediatek/clk-mt6765.ko
+kernel/drivers/clk/mediatek/clk-mt6765-pg.ko
+kernel/drivers/clk/mediatek/mt6765_clkmgr.ko
+kernel/drivers/clk/mediatek/clk-mt6765-audio.ko
+kernel/drivers/clk/mediatek/clk-mt6765-img.ko
+kernel/drivers/clk/mediatek/clk-mt6765-cam.ko
+kernel/drivers/clk/mediatek/clk-mt6765-mipi0a.ko
+kernel/drivers/clk/mediatek/clk-mt6765-mm.ko
+kernel/drivers/clk/mediatek/clk-mt6765-vcodec.ko
+kernel/drivers/clk/mediatek/fhctl.ko

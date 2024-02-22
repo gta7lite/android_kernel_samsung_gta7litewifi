@@ -1,0 +1,1 @@
+cmd_drivers/media/mmc/built-in.a :=  rm -f drivers/media/mmc/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/media/mmc/built-in.a drivers/media/mmc/siano/built-in.a

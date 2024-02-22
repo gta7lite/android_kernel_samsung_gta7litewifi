@@ -1,0 +1,1 @@
+cmd_drivers/iio/temperature/built-in.a :=  rm -f drivers/iio/temperature/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/iio/temperature/built-in.a 

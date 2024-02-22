@@ -1,0 +1,1 @@
+cmd_drivers/power/built-in.a :=  rm -f drivers/power/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/power/built-in.a drivers/power/avs/built-in.a drivers/power/reset/built-in.a drivers/power/supply/built-in.a

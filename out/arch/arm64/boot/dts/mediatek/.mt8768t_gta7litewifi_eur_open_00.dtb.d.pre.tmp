@@ -1,0 +1,12 @@
+arch/arm64/boot/dts/mediatek/.mt8768t_gta7litewifi_eur_open_00.dtb.dts.tmp: \
+  ../arch/arm64/boot/dts/mediatek/mt8768t_gta7litewifi_eur_open_00.dts \
+  ../arch/arm64/boot/dts/mediatek/../mediatek/ot8.dts \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt6765-pinfunc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt65xx.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mt6765-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mmc/mt6765-msdc.h \
+  ../arch/arm64/boot/dts/mediatek/ot8/cust.dtsi \
+  ../arch/arm64/boot/dts/mediatek/cust_mt8768_camera.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt8768t-gta7lite_common.dtsi

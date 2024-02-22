@@ -1,0 +1,1 @@
+cmd_drivers/firmware/efi/libstub/built-in.a :=  rm -f drivers/firmware/efi/libstub/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/firmware/efi/libstub/built-in.a drivers/firmware/efi/libstub/lib-ksyms.o

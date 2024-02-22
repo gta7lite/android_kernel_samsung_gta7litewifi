@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/built-in.a :=  rm -f drivers/misc/mediatek/aee/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/misc/mediatek/aee/built-in.a drivers/misc/mediatek/aee/aed/built-in.a drivers/misc/mediatek/aee/mrdump/built-in.a

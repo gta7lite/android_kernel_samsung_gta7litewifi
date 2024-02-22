@@ -1,0 +1,26 @@
+!<thin>
+//                                              232       `
+cpufreq.o/
+freq_table.o/
+cpufreq_times.o/
+cpufreq_performance.o/
+cpufreq_powersave.o/
+cpufreq_userspace.o/
+cpufreq_ondemand.o/
+cpufreq_conservative.o/
+cpufreq_governor.o/
+cpufreq_governor_attr_set.o/
+scmi-cpufreq.o/
+scpi-cpufreq.o/
+/0              0           0     0     644     521152    `
+/11             0           0     0     644     94016     `
+/25            /0           0     0     644     188328    `
+/42             0           0     0     644     65760     `
+/65             0           0     0     644     65256     `
+/86             0           0     0     644     77696     `
+/107            0           0     0     644     134632    `
+/127            0           0     0     644     99128     `
+/151            0           0     0     644     127512    `
+/171            0           0     0     644     72320     `
+/200            0           0     0     644     119216    `
+/216            0           0     0     644     115384    `

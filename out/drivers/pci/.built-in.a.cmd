@@ -1,0 +1,1 @@
+cmd_drivers/pci/built-in.a :=  rm -f drivers/pci/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/pci/built-in.a drivers/pci/controller/built-in.a drivers/pci/switch/built-in.a

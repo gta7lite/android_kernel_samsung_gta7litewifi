@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mediatek/gpu_rgx/built-in.a :=  rm -f drivers/gpu/mediatek/gpu_rgx/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/mediatek/gpu_rgx/built-in.a drivers/gpu/mediatek/gpu_rgx/m1.13ED5776728/built-in.a

@@ -1,0 +1,1 @@
+cmd_drivers/opp/built-in.a :=  rm -f drivers/opp/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/opp/built-in.a drivers/opp/core.o drivers/opp/cpu.o drivers/opp/of.o

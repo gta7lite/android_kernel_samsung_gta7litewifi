@@ -1,0 +1,32 @@
+!<thin>
+//                                              318       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+pinctrl-amd.o/
+pinctrl-single.o/
+mediatek/mtk-eint.o/
+mediatek/pinctrl-mtk-common.o/
+mediatek/pinctrl-mtk-common-v2.o/
+mediatek/pinctrl-paris.o/
+mediatek/pinctrl-mtk-common-v2_debug.o/
+mediatek/pinctrl-mt6765.o/
+mediatek/pinctrl-mt6397.o/
+/0              0           0     0     644     343416    `
+/8             /0           0     0     644     141216    `
+/25             0           0     0     644     180496    `
+/35             0           0     0     644     142200    `
+/46             0           0     0     644     161104    `
+/60             0           0     0     644     161408    `
+/79             0           0     0     644     259184    `
+/94             0           0     0     644     313608    `
+/112            0           0     0     644     193592    `
+/133            0           0     0     644     223880    `
+/164            0           0     0     644     255376    `
+/198           /0           0     0     644     222920    `
+/224            0           0     0     644     197408    `
+/264            0           0     0     644     246896    `
+/291            0           0     0     644     152448    `

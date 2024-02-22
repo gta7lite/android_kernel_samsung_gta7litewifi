@@ -1,0 +1,1 @@
+cmd_drivers/memory/built-in.a :=  rm -f drivers/memory/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/memory/built-in.a drivers/memory/mtk-smi.o drivers/memory/mediatek/built-in.a

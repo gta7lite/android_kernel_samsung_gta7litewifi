@@ -1,0 +1,5 @@
+kernel/drivers/misc/mediatek/power_throttling/mtk_battery_oc_throttling.ko
+kernel/drivers/misc/mediatek/power_throttling/mtk_battery_percentage_throttling.ko
+kernel/drivers/misc/mediatek/power_throttling/mtk_low_battery_throttling.ko
+kernel/drivers/misc/mediatek/power_throttling/mtk_dynamic_loading_throttling.ko
+kernel/drivers/misc/mediatek/power_throttling/pmic_lbat_service_mt6357.ko

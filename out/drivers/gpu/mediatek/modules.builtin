@@ -1,0 +1,4 @@
+kernel/drivers/gpu/mediatek/ged/ged.ko
+kernel/drivers/gpu/mediatek/gpu_rgx/m1.13ED5776728/pvrsrvkm.ko
+kernel/drivers/gpu/mediatek/gpufreq/mt6765/mtk_gpufreq_mt6765.ko
+kernel/drivers/gpu/mediatek/hal/mtk_gpu_hal.ko

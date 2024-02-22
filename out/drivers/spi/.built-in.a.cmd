@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.a :=  rm -f drivers/spi/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/spi/built-in.a drivers/spi/spi.o drivers/spi/spidev.o drivers/spi/spi-mt65xx.o drivers/spi/spi-mt65xx-dev.o

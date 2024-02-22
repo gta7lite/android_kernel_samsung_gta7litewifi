@@ -1,0 +1,27 @@
+arch/arm64/boot/dts/mediatek/.mt6765.dtb.dts.tmp: \
+  ../arch/arm64/boot/dts/mediatek/mt6765.dts \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt6765-pinfunc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt65xx.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mmc/mt6765-msdc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mt6765-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/iio/mt635x-auxadc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6765-gce.h \
+  include/generated/autoconf.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/soc/mediatek,boot-mode.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/phy/phy.h \
+  ../arch/arm64/boot/dts/mediatek/cust_mt6765_msdc.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6357.dtsi \
+  ../arch/arm64/boot/dts/mediatek/bat_setting/mt6765_battery_prop.dtsi \
+  ../arch/arm64/boot/dts/mediatek/bat_setting/mt6765_battery_table_ext.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/AX3565-OT8-common.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/Tablite-sdhc.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/ot8-battery.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/ot8-tp.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/ot8-sar.dtsi \
+  ../arch/arm64/boot/dts/mediatek/TabA7_Lite/ot8-audio.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6370.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6370_pd.dtsi \
+  ../arch/arm64/boot/dts/mediatek/trusty.dtsi \
+  ../arch/arm64/boot/dts/mediatek/modem-MT6765ap-pdata.dtsi

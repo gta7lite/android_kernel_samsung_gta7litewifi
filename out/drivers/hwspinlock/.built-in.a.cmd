@@ -1,0 +1,1 @@
+cmd_drivers/hwspinlock/built-in.a :=  rm -f drivers/hwspinlock/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/hwspinlock/built-in.a drivers/hwspinlock/hwspinlock_core.o

@@ -1,0 +1,6 @@
+kernel/sound/soc/mediatek/aw87390/aw87xxx.ko
+kernel/sound/soc/mediatek/aw87390/aw87xxx_device.ko
+kernel/sound/soc/mediatek/aw87390/aw87xxx_monitor.ko
+kernel/sound/soc/mediatek/aw87390/aw87xxx_bin_parse.ko
+kernel/sound/soc/mediatek/aw87390/aw87xxx_dsp.ko
+kernel/sound/soc/mediatek/aw87390/aw87xxx_acf_bin.ko

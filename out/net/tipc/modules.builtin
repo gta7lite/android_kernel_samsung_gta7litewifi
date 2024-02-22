@@ -1,0 +1,2 @@
+kernel/net/tipc/tipc.ko
+kernel/net/tipc/diag.ko

@@ -1,0 +1,13 @@
+!<thin>
+//                                              100       `
+devfreq.o/
+governor_performance.o/
+governor_powersave.o/
+governor_userspace.o/
+governor_passive.o/
+
+/0              0           0     0     644     231416    `
+/11             0           0     0     644     54664     `
+/35             0           0     0     644     54608     `
+/57             0           0     0     644     63680     `
+/79             0           0     0     644     62272     `

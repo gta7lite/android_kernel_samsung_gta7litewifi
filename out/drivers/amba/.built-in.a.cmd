@@ -1,0 +1,1 @@
+cmd_drivers/amba/built-in.a :=  rm -f drivers/amba/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/amba/built-in.a drivers/amba/bus.o

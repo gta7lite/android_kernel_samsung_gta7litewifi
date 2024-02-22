@@ -1,0 +1,1 @@
+cmd_fs/ramfs/built-in.a :=  rm -f fs/ramfs/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD fs/ramfs/built-in.a fs/ramfs/inode.o fs/ramfs/file-mmu.o

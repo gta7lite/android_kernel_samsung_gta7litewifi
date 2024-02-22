@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/built-in.a :=  rm -f drivers/net/wireless/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/net/wireless/built-in.a drivers/net/wireless/virt_wifi.o

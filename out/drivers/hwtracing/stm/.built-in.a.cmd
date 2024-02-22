@@ -1,0 +1,1 @@
+cmd_drivers/hwtracing/stm/built-in.a :=  rm -f drivers/hwtracing/stm/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/hwtracing/stm/built-in.a drivers/hwtracing/stm/core.o drivers/hwtracing/stm/policy.o

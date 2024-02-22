@@ -1,0 +1,19 @@
+!<thin>
+//                                              130       `
+mtk_hotplug_cb.o/
+mtk_hps_main.o/
+mtk_hps_core.o/
+mtk_hps_procfs.o/
+mtk_hps_cpu.o/
+mtk_hps_api.o/
+mtk_hps_algo.o/
+mtk_hps_ops.o/
+
+/0              0           0     0     644     47576     `
+/18             0           0     0     644     243384    `
+/34             0           0     0     644     104432    `
+/50             0           0     0     644     227936    `
+/68             0           0     0     644     29336     `
+/83             0           0     0     644     31672     `
+/98             0           0     0     644     26160     `
+/114            0           0     0     644     24568     `

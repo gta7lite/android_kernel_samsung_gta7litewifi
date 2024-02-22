@@ -1,0 +1,75 @@
+!<thin>
+//                                              714       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+clk-scpi.o/
+clk-xgene.o/
+mediatek/clk-fixup-div.o/
+mediatek/clk-mtk.o/
+mediatek/clk-pll.o/
+mediatek/clk-gate.o/
+mediatek/clk-apmixed.o/
+mediatek/clk-cpumux.o/
+mediatek/reset.o/
+mediatek/clk-mux.o/
+mediatek/clkchk.o/
+mediatek/clk-mt6765.o/
+mediatek/clk-mt6765-pg.o/
+mediatek/mt6765_clkmgr.o/
+mediatek/clk-mt6765-audio.o/
+mediatek/clk-mt6765-img.o/
+mediatek/clk-mt6765-cam.o/
+mediatek/clk-mt6765-mipi0a.o/
+mediatek/clk-mt6765-mm.o/
+mediatek/clk-mt6765-vcodec.o/
+mediatek/clk-fhctl.o/
+mediatek/clk-fhctl-sspm.o/
+
+/0              0           0     0     644     51592     `
+/14             0           0     0     644     49808     `
+/26             0           0     0     644     140896    `
+/36             0           0     0     644     802880    `
+/43             0           0     0     644     82272     `
+/58             0           0     0     644     126648    `
+/78             0           0     0     644     126360    `
+/96             0           0     0     644     34944     `
+/108            0           0     0     644     24704     `
+/126            0           0     0     644     49624     `
+/137           /0           0     0     644     38608     `
+/154            0           0     0     644     110368    `
+/180            0           0     0     644     118088    `
+/192            0           0     0     644     85144     `
+/204            0           0     0     644     127352    `
+/216            0           0     0     644     145432    `
+/229           /0           0     0     644     95240     `
+/255            0           0     0     644     126264    `
+/275            0           0     0     644     131056    `
+/295            0           0     0     644     119384    `
+/316            0           0     0     644     90320     `
+/340            0           0     0     644     87264     `
+/363            0           0     0     644     91480     `
+/381            0           0     0     644     115832    `
+/401            0           0     0     644     46504     `
+/420            0           0     0     644     211296    `
+/443           /0           0     0     644     360704    `
+/469           /0           0     0     644     212800    `
+/495            0           0     0     644     98768     `
+/524            0           0     0     644     97712     `
+/551            0           0     0     644     98528     `
+/578            0           0     0     644     96928     `
+/608           /0           0     0     644     102712    `
+/634            0           0     0     644     97648     `
+/664            0           0     0     644     139216    `
+/686            0           0     0     644     22048     `

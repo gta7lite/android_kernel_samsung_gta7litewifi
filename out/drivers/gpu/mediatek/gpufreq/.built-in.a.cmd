@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mediatek/gpufreq/built-in.a :=  rm -f drivers/gpu/mediatek/gpufreq/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/gpu/mediatek/gpufreq/built-in.a drivers/gpu/mediatek/gpufreq/mt6765/built-in.a

@@ -1,0 +1,35 @@
+!<thin>
+//                                              284       `
+src/ged_ski.o/
+src/ged.o/
+src/ged_base.o/
+src/ged_main.o/
+src/ged_sysfs.o/
+src/ged_hal.o/
+src/ged_log.o/
+src/ged_bridge.o/
+src/ged_monitor_3D_fence.o/
+src/ged_notify_sw_vsync.o/
+src/ged_hashtable.o/
+src/ged_thread.o/
+src/ged_ge.o/
+src/ged_dvfs.o/
+src/ged_gpu_tuner.o/
+src/ged_kpi.o/
+
+/0              0           0     0     644     43608     `
+/15             0           0     0     644     12296     `
+/26             0           0     0     644     61408     `
+/42             0           0     0     644     170504    `
+/58             0           0     0     644     24280     `
+/75             0           0     0     644     207944    `
+/90             0           0     0     644     256864    `
+/105            0           0     0     644     47448     `
+/123            0           0     0     644     48328     `
+/151            0           0     0     644     48672     `
+/178           /0           0     0     644     34192     `
+/199            0           0     0     644     41456     `
+/217            0           0     0     644     132480    `
+/231            0           0     0     644     193600    `
+/247           /0           0     0     644     72112     `
+/268            0           0     0     644     189160    `

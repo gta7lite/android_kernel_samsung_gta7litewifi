@@ -1,0 +1,33 @@
+!<thin>
+//                                              278       `
+mtk_spm.o/
+mtk_spm_twam.o/
+mtk_spm_irq.o/
+mtk_spm_dram.o/
+mtk_spm_internal.o/
+mtk_spm_suspend.o/
+mtk_spm_suspend_process.o/
+mtk_sspm.o/
+mtk_spm_power.o/
+mtk_spm_fs.o/
+mtk_spm_utils.o/
+mtk_idle_cond_check.o/
+mtk_spm_idle.o/
+mtk_spm_vcore_dvfs.o/
+mtk_spm_resource_req_console.o/
+
+/0              0           0     0     644     227288    `
+/11             0           0     0     644     33120     `
+/27             0           0     0     644     159480    `
+/42             0           0     0     644     13928     `
+/58             0           0     0     644     40288     `
+/78             0           0     0     644     243312    `
+/97             0           0     0     644     20448     `
+/124            0           0     0     644     141336    `
+/136           /0           0     0     644     13592     `
+/153            0           0     0     644     164592    `
+/167           /0           0     0     644     172056    `
+/184            0           0     0     644     159344    `
+/207            0           0     0     644     199960    `
+/223            0           0     0     644     28992     `
+/245            0           0     0     644     28512     `

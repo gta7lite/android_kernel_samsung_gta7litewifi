@@ -1,0 +1,1 @@
+cmd_kernel/sched/extension/built-in.a :=  rm -f kernel/sched/extension/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD kernel/sched/extension/built-in.a kernel/sched/extension/eas_plus.o kernel/sched/extension/debug.o kernel/sched/extension/tuning.o kernel/sched/extension/debug_aee.o

@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/mediatek/mt6765/built-in.a :=  rm -f drivers/input/keyboard/mediatek/mt6765/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/input/keyboard/mediatek/mt6765/built-in.a drivers/input/keyboard/mediatek/mt6765/hal_kpd.o

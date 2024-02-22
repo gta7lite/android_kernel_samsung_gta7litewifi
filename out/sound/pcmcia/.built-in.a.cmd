@@ -1,0 +1,1 @@
+cmd_sound/pcmcia/built-in.a :=  rm -f sound/pcmcia/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD sound/pcmcia/built-in.a sound/pcmcia/vx/built-in.a sound/pcmcia/pdaudiocf/built-in.a

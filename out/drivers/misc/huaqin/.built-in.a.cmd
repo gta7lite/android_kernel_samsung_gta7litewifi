@@ -1,0 +1,1 @@
+cmd_drivers/misc/huaqin/built-in.a :=  rm -f drivers/misc/huaqin/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD drivers/misc/huaqin/built-in.a drivers/misc/huaqin/sim_tray/built-in.a

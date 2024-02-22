@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.a :=  rm -f sound/soc/codecs/built-in.a; /home/zillion/Desktop/wip/android_kernel_samsung_gta7litewifi/gcc/bin/aarch64-linux-android-ar rcSTPD sound/soc/codecs/built-in.a sound/soc/codecs/mt6357-accdet.o sound/soc/codecs/rt5509.o sound/soc/codecs/rt5509-regmap.o sound/soc/codecs/rt5509-calib.o
